@@ -1,4 +1,4 @@
-# Rust examples for WasmEdge
+# Rust examples for WasmEdge - (CCF 10-Apr-2025)
 
 Simple Rust applications that run in WasmEdge. They also serve as a good learning resource for the Rust language.
 
